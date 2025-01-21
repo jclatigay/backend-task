@@ -8,7 +8,8 @@ A command-line utility that fetches random activities from the Bored API.
 - Python 3.6+
 - `requests` library (`pip install requests`)
 
-### Installation```
+### Installation
+```
 git clone https://github.com/jclatigay/backend-task.git
 cd backend-task
 ```
